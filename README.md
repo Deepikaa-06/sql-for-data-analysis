@@ -20,3 +20,11 @@ This repository contains a collection of SQL queries designed to practice and st
 ---
 
 ## 📁 Repository Structure
+sql-for-data-analysis/
+│
+├── basics/
+├── joins/
+├── aggregations/
+├── subqueries/
+└── advanced/
+├── basic assignment questions and answers/
